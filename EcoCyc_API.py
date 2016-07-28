@@ -1,5 +1,5 @@
 # %load ~/Downloads/EcoCyc_API.py
-#Edited by Akshay
+#Original script from Anton
 import xml.etree.ElementTree as ET
 import requests
 
