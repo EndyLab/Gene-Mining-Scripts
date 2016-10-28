@@ -15,7 +15,9 @@ A toolset being developed for the [Build a Cell](http://www.buildacell.io) proje
 
 ##Current statistics
 2152 annotated genes from E. coli integrated (out of expected 4377 in E. coli K-12)
+
 3841 promoters (operons) from E. coli
+
 7 protospacers identified per promoter region on average (searching from 60 bps upstream to 60 bps downstream of +1)
 
 ## Installation
