@@ -1,5 +1,5 @@
 # Organism Breadboard
-A toolset being developed for the [Build a Cell](http://www.buildacell.io) project to interpret dependencies between genes and enable unit-testing of gene function in both existing and forward engineered genomes. The near-term goal is to mine prokaryotic genome information from curated databases like Ecocyc and Kegg and provide ranked lists of candidate protospacers for CRISPRi knockdown (for unit-testing). The current version provides an interface with Ecocyc and extracts all E. coli annotations to generate an output spreadsheet consisting of:
+A toolset being developed for the [Build a Cell](http://www.buildacell.io) project to interpret dependencies between genes and enable unit-testing of gene function in both existing and forward-engineered genomes. The near-term goal is to be abel to mine prokaryotic genome information from curated databases like Ecocyc and Kegg and provide ranked lists of candidate protospacers for CRISPRi knockdown (for unit-testing). The current version provides an interface with Ecocyc and extracts E. coli annotations to generate an output spreadsheet consisting of:
 
 1. Promoter ID
 
