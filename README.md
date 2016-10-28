@@ -21,8 +21,10 @@ A toolset being developed for the [Build a Cell](http://www.buildacell.io) proje
 7 protospacers identified per promoter region on average (searching from 60 bps upstream to 60 bps downstream of +1)
 
 ## Installation
-Simply download OrganismBreadBoard.09-a4:
-https://github.com/EndyLab/Gene-Mining-Scripts.git
+Simply download OrganismBreadBoard.09-a4 from https://github.com/EndyLab/Gene-Mining-Scripts.git or clone the project:
+
+     git clone https://github.com/sestaton/sesbio.git
+
 
 ## Contributing
 1. Fork it!
