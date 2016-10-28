@@ -1,5 +1,5 @@
 # Organism Breadboard
-A toolset being developed for the Build a Cell project to interpret dependencies between genes and enable unit-testing of gene function in both existing and forward engineered genomes. The near-term goal is to mine prokaryotic genome information from curated databases like Ecocyc and Kegg and provide ranked lists of candidate protospacers for CRISPRi knockdown (for unit-testing). The current version provides an interface with Ecocyc and extracts all E. coli annotations to generate an output spreadsheet consisting of:
+A toolset being developed for the [Build a Cell project](http://www.buildacell.io) to interpret dependencies between genes and enable unit-testing of gene function in both existing and forward engineered genomes. The near-term goal is to mine prokaryotic genome information from curated databases like Ecocyc and Kegg and provide ranked lists of candidate protospacers for CRISPRi knockdown (for unit-testing). The current version provides an interface with Ecocyc and extracts all E. coli annotations to generate an output spreadsheet consisting of:
 1. Promoter ID
 2. Promoter orientation
 3. Sequence surrounding promoters (specifiable)
@@ -17,7 +17,6 @@ Simply download OrganismBreadBoard.09-a4:
 https://github.com/EndyLab/Gene-Mining-Scripts.git
 
 ## Contributing
-
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
